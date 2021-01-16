@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import RouterDemo1 from './router-demo1/RouterDemo1'
+import RouterDemo2 from './router-demo2/RouterDemo2'
 
 ReactDOM.render(
   <React.StrictMode>
-    <RouterDemo1 />
+    <RouterDemo2 />
   </React.StrictMode>,
   document.getElementById('root')
 );
